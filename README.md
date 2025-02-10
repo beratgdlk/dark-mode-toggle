@@ -71,4 +71,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 - **GitHub:** [beratgdlk](https://github.com/beratgdlk)
-- **Email:** your-email@example.com
+
